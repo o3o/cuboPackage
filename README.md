@@ -1,4 +1,4 @@
-# PKGBUILD for cubo
+# PKGBUILD for [cubo](https://github.com/o3o/cubo)
 
 
 # Installing cubo on Arch Linux
